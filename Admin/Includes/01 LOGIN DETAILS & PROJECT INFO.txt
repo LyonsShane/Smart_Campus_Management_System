@@ -1,0 +1,19 @@
+
+**Admin Login Details**
+
+Email   : admin@mail.com
+Password: Password@123
+
+
+**Lecturer Login Details**
+
+Email   : shane@gmail.com
+Password: Lecturer123
+
+
+**Student Login Details**
+
+Email   : minura@gmail.com
+Password: Student123
+
+
